@@ -1,0 +1,13 @@
+body {font-family: Arial, sans-serif;
+    background-image: url('img/background.jpg');}
+h1 {
+
+    color: red;
+    font-family: 'Lobster', sans-serif;  
+    font-size: 36px;                   
+    font-weight: bold;                 
+}
+
+header img {
+    width: 200px;
+}
